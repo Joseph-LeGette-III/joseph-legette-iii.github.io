@@ -1,0 +1,18 @@
+body {
+    background: #36393F;
+    color: ivory;
+    padding: 0px 1rem 0px 1rem;
+    height: 81vh;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #5865F2;
+    text-align: center;
+}
+
+.about {
+    background: #00b3d1;
+}
