@@ -16,3 +16,14 @@ h1 {
 .about {
     background: #00b3d1;
 }
+
+a {
+    color: #7289da;
+}
+
+.project img {
+    max-width: 50vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
